@@ -1,4 +1,4 @@
-# Sample Plot of Gracilis Force Measured Intraoperatively-
+# Sample Plot of Gracilis Force Measured Intraoperatively
 Subject-G40 
 
 Explore the data presented in the sample plot of gracilis force measured intraoperatively
