@@ -1,3 +1,4 @@
 # plot-G40
 
-lomaspersad.github.io/plot-G40/
+[View plot](lomaspersad.github.io/plot-G40/)
+
